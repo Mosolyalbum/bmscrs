@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "BmsCrsII",
+    "packageName": "bms.github.jhipster.application",
+    "packageFolder": "bms/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "NTRkYWRmZTNhNDIzYTBkYWM1NzIzNTU0MGMxNTIxNjEyODcxODljNmUwMTFhYzhmNDY3NGNmNTc4NzZlNDRhMmNhYjM3ZTViNTE3NTEyZjExMWU1ZmNhNDU2ZWM5ZmYzODBhMjk4MGIzMzlmM2FmZjkyMjZlNGNkNDM1NDZmZWY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Mosolyalbum",
+  "repository-name": "bmscrs"
+}
